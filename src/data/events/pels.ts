@@ -142,7 +142,7 @@ export const pelsEvents: Event[] = [
   venue: "EEE Seminar Hall, NSSCE",
   price: "Free",
   societyId: "pels",
-  status: "upcoming",
+  status: "past",
   registrationUrl:"https://forms.gle/BPzUbinZxMU9hjqa7",
   banner: "https://sb-dataset.vercel.app/events/pels/e7/bann.jpeg",
   tags: ["Smart Grid","Scada","Smart Metering", "Advanced Automation"],
